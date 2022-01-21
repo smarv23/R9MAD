@@ -1,0 +1,2 @@
+Reflection: 
+  I think this project was well executed and included all of the elements. I learned alot about react native when doing this project. I leanred how to implement images, borders and data into the react native software. 
